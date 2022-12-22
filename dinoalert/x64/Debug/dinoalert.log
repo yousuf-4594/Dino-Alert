@@ -1,0 +1,45 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (dinoalert.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  cameramovement.cpp
+  collision detection.cpp
+  dinoalert.cpp
+  enemygraphics.cpp
+  enemysprite_and_turretmov.cpp
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(75,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(498,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(543,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(543,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1361,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1362,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1414,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1414,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1464,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1465,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1483,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1484,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1593,24): warning C4305: '+=': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1680,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1680,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1683,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1683,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1689,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1689,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1690,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1756,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1757,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(1762,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  graphics.cpp
+  highscore.cpp
+  newcoolshootingmech.cpp
+  populatingenemy.cpp
+  shooting.cpp
+  steer.cpp
+  turretgraphics.cpp
+  ui.cpp
+  Generating Code...
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(475): warning C4715: 'PLAYER::playeralive': not all control paths return a value
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(569): warning C4715: 'TURRET::displayturret': not all control paths return a value
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(873): warning C4715: 'ENEMY::displayenemy': not all control paths return a value
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(408): warning C4715: 'PLAYER::displayplayer': not all control paths return a value
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(541): warning C4715: 'TURRET::calculateangle': not all control paths return a value
+D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\dinoalert\enemysprite_and_turretmov.cpp(729): warning C4715: 'ENEMY::calculateangle': not all control paths return a value
+LINK : fatal error LNK1201: error writing to program database 'D:\ONEDRIVE\OneDrive - FAST National University\2nd semester\dinoalert\x64\Debug\dino_alert.pdb'; check for insufficient disk space, invalid path, or insufficient privilege

@@ -1,0 +1,12 @@
+
+MOVEMENT:
+  w 			ignition
+  s 			reverse
+  a 			steer left
+  d 			steer right
+  space 		shoot
+  mouse cursor 		aim
+
+
+UPGRADE TANK:
+  rightmost menu	kills = currency
