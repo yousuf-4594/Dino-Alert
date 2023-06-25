@@ -1,4 +1,4 @@
-🤩🤩 TO INSTALL ON YOUR MACHINE__________________________________________
+TO INSTALL ON YOUR MACHINE__________________________________________
 
 1.Click on -> Dino Alert installer/ Debug/ Dino Alert installer
 	  
@@ -11,7 +11,7 @@ NOTE:
 
 
 
-QnA 🤓😵🥴_______________________________________________________________
+QnA _______________________________________________________________
 
 BUT HOW TO PLAY ?
 MOVEMENT:
@@ -32,9 +32,9 @@ all upgradables:
 	inc ammo capacity	30  kills
 	inc acceleration	50  kills
 	inc topspeed		50  kills
-	BUY DEATHBRINGER🤯     200 kills
+	BUY DEATHBRINGER        200 kills
 	
-Allright but whats the game about ?!? 😪__________________________________
+Allright but whats the game about ?!? __________________________________
 * you are spawned in an surrogate universe
   where dinos didnot got meteroised
 
